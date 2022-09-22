@@ -36,5 +36,6 @@
 - CSS3
 - JavaScript
 
-## DEPLOY :runner:
+## DEPLOY :runner: 
+[Clique Aqui](https://pixels-art-cct9.vercel.app/)
 
