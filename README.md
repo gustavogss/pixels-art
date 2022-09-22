@@ -29,7 +29,7 @@
 
 - [x] 12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.
 
-## TECNOLOGIA E FERRAMENTAS UTILIZADAS :robot:
+## TECNOLOGIA E FERRAMENTAS UTILIZADAS 🎮:
 
 - VsCode
 - HTML5
