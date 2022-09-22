@@ -29,13 +29,13 @@
 
 - [x] 12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.
 
-## TECNOLOGIA E FERRAMENTAS UTILIZADAS 🎮:
+## TECNOLOGIA E FERRAMENTAS UTILIZADAS :robot:
 
 - VsCode
 - HTML5
 - CSS3
 - JavaScript
 
-## DEPLOY :runner: 
+## DEPLOY 🎮
 [Clique Aqui](https://pixels-art-cct9.vercel.app/)
 
