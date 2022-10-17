@@ -37,5 +37,5 @@
 - JavaScript
 
 ## DEPLOY 🎮
-[Clique Aqui](https://pixels-art-cct9.vercel.app/)
+[Clique Aqui](https://gustavogss.github.io/pixels-art/)
 
