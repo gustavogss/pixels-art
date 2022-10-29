@@ -39,3 +39,4 @@
 ## DEPLOY 🎮
 [Clique Aqui](https://gustavogss.github.io/pixels-art/)
 
+<img src="https://github.com/gustavogss/pixels-art/blob/main/screencapture-gustavogss-github-io-pixels-art-2022-10-29-12_46_39.png" />
