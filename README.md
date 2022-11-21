@@ -37,6 +37,8 @@
 - JavaScript
 
 ## COMO UTILIZAR 🎮
-[Clique Aqui](https://gustavogss.github.io/pixels-art/)
+[Clique Aqui](https://pixels-art-cct9.vercel.app/)
 
-<img src="https://github.com/gustavogss/pixels-art/blob/main/screencapture-gustavogss-github-io-pixels-art-2022-10-29-12_46_39.png" />
+[Gravação de tela de 21-11-2022 01:42:08.webm](https://user-images.githubusercontent.com/20332960/202967387-38422672-43f2-435a-aeed-1b02813a2fd4.webm)
+
+
